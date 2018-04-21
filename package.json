@@ -6,7 +6,7 @@
   "author": "Deepak Grover <deepakgrover333@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@appbaseio/reactivesearch": "^2.5.0",
+    "@appbaseio/reactivesearch": "^2.5.1",
     "@zeit/next-css": "^0.1.5",
 		"emotion-server": "^9.1.0",
     "next": "^5.1.0",

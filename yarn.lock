@@ -10,9 +10,9 @@
     redux "^3.7.2"
     redux-thunk "^2.2.0"
 
-"@appbaseio/reactivesearch@^2.5.0":
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/@appbaseio/reactivesearch/-/reactivesearch-2.5.0.tgz#c8beba368a72673bc8b450c8acb2fddab7fea456"
+"@appbaseio/reactivesearch@^2.5.1":
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/@appbaseio/reactivesearch/-/reactivesearch-2.5.1.tgz#f26b70237bbe83c522c562dc7845ed4d1d412189"
   dependencies:
     "@appbaseio/reactivecore" "^1.5.3"
     appbase-js "^2.3.0"
